@@ -16,3 +16,9 @@
     Step 7 - To see the status of the student, we should see their name, ID, courses enrolled, and balance
     
 --- 
+## How To Run this Project
+1. Download zip
+2. After Download Extract it.
+3. Right click
+4. Open folder as intellij idea project or Open folder as project eclipse
+5. Than, Open Src and open .java files and Run.
